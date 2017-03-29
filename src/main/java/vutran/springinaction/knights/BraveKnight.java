@@ -1,4 +1,4 @@
-package vutran.springinaction.SimpleSpring;
+package vutran.springinaction.knights;
 
 public class BraveKnight implements Knight {
 

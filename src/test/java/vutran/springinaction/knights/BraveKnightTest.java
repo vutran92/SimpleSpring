@@ -1,8 +1,11 @@
-package vutran.springinaction.SimpleSpring;
+package vutran.springinaction.knights;
 
 import static org.mockito.Mockito.*;
 
 import org.junit.Test;
+
+import vutran.springinaction.knights.BraveKnight;
+import vutran.springinaction.knights.Quest;
 
 public class BraveKnightTest {
 
